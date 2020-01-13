@@ -1,9 +1,9 @@
 package Dam108t2e101;
-public class dam108t2e103 {
+public class dam108t2e104 {
     public static void main(String[] args) {
         // creamos un triangulo
         System.out.println("Creamos un Triangulo");
-        Triangulo_v3 tri1 = new Triangulo_v3(6, 8, "rectangulo");
+        Triangulo_v4 tri1 = new Triangulo_v4(6, 8, "rectangulo");
         
         // calculamos el area del triangulo
         

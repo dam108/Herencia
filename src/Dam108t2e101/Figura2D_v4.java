@@ -1,11 +1,14 @@
 package Dam108t2e101;
-public class Figura2D_v3 {
+public class Figura2D_v4 {
     private double ancho;
     private double alto;
     
     /* CONSTRUCTOR PADRE */
     
-    Figura2D_v3(){}
+    Figura2D_v4(){}
+    Figura2D_v4(double al, double an){
+        this.alto = al; this.ancho = an;    
+    }
 
     public double getAncho() {
         return ancho;
